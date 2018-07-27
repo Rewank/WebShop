@@ -1,0 +1,12 @@
+.container{
+    width: 200px;
+    height: 300px;
+}
+.container img{
+    width: 100%;
+    height: auto;
+}
+.logo {
+    margin-bottom: 40px;
+    letter-spacing: 0.7em;
+  }
